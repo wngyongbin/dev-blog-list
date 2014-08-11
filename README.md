@@ -9,4 +9,6 @@ dev-en-blog
 [teehan+lax](http://www.teehanlax.com/blog/) | 
 [nshipster](http://nshipster.com/) | 
 [raywenderlich](http://www.raywenderlich.com/) | 
+[iOS8DayByDay](http://www.shinobicontrols.com/iOS8DayByDay) | 
+
 
