@@ -11,4 +11,6 @@ dev-blog-list
 [raywenderlich](http://www.raywenderlich.com/) | 
 [iOS8DayByDay](http://www.shinobicontrols.com/iOS8DayByDay) | 
 [走马观花](http://ios.b2mp.cn/) | 
+[GitCafe](http://blog.gitcafe.com/) | 
+
 
