@@ -15,3 +15,5 @@ dev-blog-list
 [GitCafe](http://blog.gitcafe.com/) | 
 [code4app](http://code4app.com/) | 
 [crushbeercrushcode](http://crushbeercrushcode.org/) | 
+[samaltman](http://blog.samaltman.com/) | 
+
