@@ -21,4 +21,5 @@ dev-blog-list
 [nsscreencast](http://nsscreencast.com/) | 
 [iwangke](http://www.iwangke.me/) | 
 [devstore](http://www.devstore.cn/) | 
-[paintcodeapp](http://www.paintcodeapp.com//) | 
+[paintcodeapp](http://www.paintcodeapp.com/) | 
+[jianshu](http://www.jianshu.com/) | 
