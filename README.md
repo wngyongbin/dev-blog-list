@@ -5,6 +5,7 @@ dev-blog-list
 
 博客地址 | RSS地址
 ----- | -----
+[Taloyum](http://casatwy.com/) |
 [objc.io](http://www.objc.io) |
 [objccn](http://objccn.io/) | 
 [teehan+lax](http://www.teehanlax.com/blog/) | 
